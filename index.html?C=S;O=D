@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /MaNGA/Pipe3D_v2_7_1/tables</title>
+ </head>
+ <body>
+<h1>Index of /MaNGA/Pipe3D_v2_7_1/tables</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/MaNGA/Pipe3D_v2_7_1/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="get_proc_elines_MaNGA.clean.csv">get_proc_elines_MaNGA.clean.csv</a></td><td align="right">2019-11-22 17:28  </td><td align="right"> 62M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="drpall-v2_7_1.fits">drpall-v2_7_1.fits</a></td><td align="right">2019-11-01 07:15  </td><td align="right"> 56M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="drpall-v2_7_1.csv">drpall-v2_7_1.csv</a></td><td align="right">2019-11-01 07:15  </td><td align="right"> 11M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="SDSS15Pipe3D_clean_v2_7_1.csv">SDSS15Pipe3D_clean_v2_7_1.csv</a></td><td align="right">2019-11-22 19:08  </td><td align="right"> 10M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="get_int_2Re.MaNGA.csv">get_int_2Re.MaNGA.csv</a></td><td align="right">2019-11-25 13:26  </td><td align="right">2.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="get_int_1Re.MaNGA.csv">get_int_1Re.MaNGA.csv</a></td><td align="right">2019-11-25 13:16  </td><td align="right">2.2M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="get_MaNGA_cen_broad.csv">get_MaNGA_cen_broad.csv</a></td><td align="right">2019-11-24 05:26  </td><td align="right">1.4M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="get_mag_cubes_v2_7_1.csv">get_mag_cubes_v2_7_1.csv</a></td><td align="right">2019-11-25 13:26  </td><td align="right">1.0M</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at ifs.astroscu.unam.mx Port 80</address>
+</body></html>
